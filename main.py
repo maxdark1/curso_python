@@ -22,3 +22,8 @@ email = "max_lara3005@hotmail.com"
 print(nombre)
 print(telefono)
 print(email)
+
+print(type(nombre))
+
+x = True
+print(type(x)) #Las literales true y false deben llevar la primera letra mayuscula
